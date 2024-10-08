@@ -6,4 +6,5 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/nord4/atomx_nord4.mk
     $(LOCAL_DIR)/oneplus12/atomx_oneplus12.mk
