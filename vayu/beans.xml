@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest>
+  <include name="../platform/msmnile.xml" />
+
+  <project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" remote="blobs" revision="void" />
+  <project path="kernel/msm-4.14" name="android_kernel_xiaomi_vayu" remote="blobs" revision="void" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="atomx" revision="void" />
+  <project path="vendor/xiaomi/vayu" name="proprietary_vendor_xiaomi_vayu" remote="blobs" revision="void" clone-depth="1" />
+</manifest>
