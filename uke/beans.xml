@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest>
+  <include name="../platform/lanai.xml" />
+
+  <project path="device/xiaomi/uke" name="android_device_xiaomi_uke" remote="blobs" revision="void" />
+  <project path="device/xiaomi/uke-kernel" name="android_device_xiaomi_uke-kernel" remote="blobs" revision="void" />
+</manifest>
